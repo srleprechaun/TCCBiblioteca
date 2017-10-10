@@ -1,0 +1,62 @@
+J:\3° MODULO\TCC\TccBiblioteca\ModuloBiometria\bin\Debug\ModuloBiometria.dll
+J:\3° MODULO\TCC\TccBiblioteca\ModuloBiometria\bin\Debug\ModuloBiometria.pdb
+J:\3° MODULO\TCC\TccBiblioteca\ModuloBiometria\bin\Debug\Dominio.dll
+J:\3° MODULO\TCC\TccBiblioteca\ModuloBiometria\bin\Debug\Dominio.pdb
+J:\3° MODULO\TCC\TccBiblioteca\ModuloBiometria\obj\Debug\ResolveAssemblyReference.cache
+J:\3° MODULO\TCC\TccBiblioteca\ModuloBiometria\obj\Debug\ModuloBiometria.dll
+J:\3° MODULO\TCC\TccBiblioteca\ModuloBiometria\obj\Debug\ModuloBiometria.pdb
+H:\3° MODULO\TCC\TccBiblioteca\ModuloBiometria\obj\Debug\Tcc.Biometria.csprojResolveAssemblyReference.cache
+H:\3° MODULO\TCC\TccBiblioteca\ModuloBiometria\bin\Debug\ModuloBiometria.dll
+H:\3° MODULO\TCC\TccBiblioteca\ModuloBiometria\bin\Debug\ModuloBiometria.pdb
+H:\3° MODULO\TCC\TccBiblioteca\ModuloBiometria\bin\Debug\Dominio.dll
+H:\3° MODULO\TCC\TccBiblioteca\ModuloBiometria\bin\Debug\Dominio.pdb
+H:\3° MODULO\TCC\TccBiblioteca\ModuloBiometria\obj\Debug\ModuloBiometria.dll
+H:\3° MODULO\TCC\TccBiblioteca\ModuloBiometria\obj\Debug\ModuloBiometria.pdb
+F:\3° MODULO\TCC\TccBiblioteca\ModuloBiometria\obj\Debug\Tcc.Biometria.csprojResolveAssemblyReference.cache
+F:\3° MODULO\TCC\TccBiblioteca\ModuloBiometria\obj\Debug\ModuloBiometria.dll
+F:\3° MODULO\TCC\TccBiblioteca\ModuloBiometria\obj\Debug\ModuloBiometria.pdb
+E:\3° MODULO\TCC\TccBiblioteca\ModuloBiometria\bin\Debug\ModuloBiometria.dll
+E:\3° MODULO\TCC\TccBiblioteca\ModuloBiometria\bin\Debug\ModuloBiometria.pdb
+E:\3° MODULO\TCC\TccBiblioteca\ModuloBiometria\bin\Debug\Dominio.dll
+E:\3° MODULO\TCC\TccBiblioteca\ModuloBiometria\bin\Debug\Dominio.pdb
+E:\3° MODULO\TCC\TccBiblioteca\ModuloBiometria\obj\Debug\ResolveAssemblyReference.cache
+E:\3° MODULO\TCC\TccBiblioteca\ModuloBiometria\obj\Debug\ModuloBiometria.dll
+E:\3° MODULO\TCC\TccBiblioteca\ModuloBiometria\obj\Debug\ModuloBiometria.pdb
+G:\3° MODULO\TCC\TccBiblioteca\ModuloBiometria\bin\Debug\ModuloBiometria.dll
+G:\3° MODULO\TCC\TccBiblioteca\ModuloBiometria\bin\Debug\ModuloBiometria.pdb
+G:\3° MODULO\TCC\TccBiblioteca\ModuloBiometria\bin\Debug\Dominio.dll
+G:\3° MODULO\TCC\TccBiblioteca\ModuloBiometria\bin\Debug\Dominio.pdb
+G:\3° MODULO\TCC\TccBiblioteca\ModuloBiometria\obj\Debug\Tcc.Biometria.csprojResolveAssemblyReference.cache
+G:\3° MODULO\TCC\TccBiblioteca\ModuloBiometria\obj\Debug\ModuloBiometria.dll
+G:\3° MODULO\TCC\TccBiblioteca\ModuloBiometria\obj\Debug\ModuloBiometria.pdb
+C:\Users\Admin\Desktop\TccBiblioteca\ModuloBiometria\bin\Debug\ModuloBiometria.dll
+C:\Users\Admin\Desktop\TccBiblioteca\ModuloBiometria\bin\Debug\ModuloBiometria.pdb
+C:\Users\Admin\Desktop\TccBiblioteca\ModuloBiometria\bin\Debug\Dominio.dll
+C:\Users\Admin\Desktop\TccBiblioteca\ModuloBiometria\bin\Debug\Dominio.pdb
+C:\Users\Admin\Desktop\TccBiblioteca\ModuloBiometria\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\TccBiblioteca\ModuloBiometria\obj\Debug\ModuloBiometria.dll
+C:\Users\Admin\Desktop\TccBiblioteca\ModuloBiometria\obj\Debug\ModuloBiometria.pdb
+E:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\ModuloBiometria\bin\Debug\ModuloBiometria.dll
+E:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\ModuloBiometria\bin\Debug\ModuloBiometria.pdb
+E:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\ModuloBiometria\bin\Debug\Dominio.dll
+E:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\ModuloBiometria\bin\Debug\Dominio.pdb
+E:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\ModuloBiometria\obj\Debug\ResolveAssemblyReference.cache
+E:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\ModuloBiometria\obj\Debug\ModuloBiometria.dll
+E:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\ModuloBiometria\obj\Debug\ModuloBiometria.pdb
+H:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\ModuloBiometria\bin\Debug\ModuloBiometria.dll
+H:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\ModuloBiometria\bin\Debug\ModuloBiometria.pdb
+H:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\ModuloBiometria\bin\Debug\Dominio.dll
+H:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\ModuloBiometria\bin\Debug\Dominio.pdb
+H:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\ModuloBiometria\obj\Debug\ResolveAssemblyReference.cache
+H:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\ModuloBiometria\obj\Debug\ModuloBiometria.dll
+H:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\ModuloBiometria\obj\Debug\ModuloBiometria.pdb
+E:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\ModuloBiometria\bin\Debug\NITGEN.SDK.NBioBSP.dll
+C:\Users\BaseHP\Desktop\Base\TccBiblioteca\ModuloBiometria\bin\Debug\ModuloBiometria.dll
+C:\Users\BaseHP\Desktop\Base\TccBiblioteca\ModuloBiometria\bin\Debug\ModuloBiometria.pdb
+C:\Users\BaseHP\Desktop\Base\TccBiblioteca\ModuloBiometria\bin\Debug\Dominio.dll
+C:\Users\BaseHP\Desktop\Base\TccBiblioteca\ModuloBiometria\bin\Debug\Dominio.pdb
+C:\Users\BaseHP\Desktop\Base\TccBiblioteca\ModuloBiometria\obj\Debug\ModuloBiometria.dll
+C:\Users\BaseHP\Desktop\Base\TccBiblioteca\ModuloBiometria\obj\Debug\ModuloBiometria.pdb
+C:\Users\BaseHP\Desktop\Base\TccBiblioteca\ModuloBiometria\bin\Debug\MySql.Data.dll
+C:\Users\BaseHP\Desktop\Base\TccBiblioteca\ModuloBiometria\bin\Debug\Dominio.dll.config
+C:\Users\BaseHP\Desktop\Base\TccBiblioteca\ModuloBiometria\obj\Debug\Tcc.Biometria.csprojResolveAssemblyReference.cache

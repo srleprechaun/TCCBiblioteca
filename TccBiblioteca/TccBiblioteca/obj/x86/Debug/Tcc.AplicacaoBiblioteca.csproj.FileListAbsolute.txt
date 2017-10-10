@@ -1,0 +1,257 @@
+J:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\bin\Debug\TccBiblioteca.exe
+J:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\bin\Debug\TccBiblioteca.pdb
+J:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\bin\Debug\Dominio.dll
+J:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\bin\Debug\ModuloBiometria.dll
+J:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\bin\Debug\Dominio.pdb
+J:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\bin\Debug\ModuloBiometria.pdb
+J:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.CadastroAluno.resources
+J:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.FuncionarioAlterarCadastro.resources
+J:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.FuncionariosCadastrados.resources
+J:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.Relatorio.resources
+J:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.TLAluno.resources
+J:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.TLCurso.resources
+J:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.CadastroFuncionario.resources
+J:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.Login.resources
+J:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.TelaPrincipal.resources
+J:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.TLMotivoVisita.resources
+J:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.Properties.Resources.resources
+J:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\obj\x86\Debug\RdlCompile.cache
+J:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\obj\x86\Debug\RdlCompile.compiled
+J:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.exe
+J:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.pdb
+H:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.CadastroAluno.resources
+H:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.FuncionarioAlterarCadastro.resources
+H:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.FuncionariosCadastrados.resources
+H:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.Relatorio.resources
+H:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.TLAluno.resources
+H:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.TLCurso.resources
+H:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.CadastroFuncionario.resources
+H:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.Login.resources
+H:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.TelaPrincipal.resources
+H:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.TLMotivoVisita.resources
+H:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.Properties.Resources.resources
+H:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\obj\x86\Debug\Tcc.AplicacaoBiblioteca.csproj.GenerateResource.Cache
+H:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\obj\x86\Debug\RdlCompile.cache
+H:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\obj\x86\Debug\RdlCompile.compiled
+H:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\obj\x86\Debug\Tcc.AplicacaoBiblioteca.csprojResolveAssemblyReference.cache
+H:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\bin\Debug\TccBiblioteca.exe.config
+F:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\bin\Debug\TccBiblioteca.exe.config
+F:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.exe
+F:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.pdb
+F:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\bin\Debug\TccBiblioteca.exe
+F:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\bin\Debug\TccBiblioteca.pdb
+F:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\bin\Debug\Dominio.dll
+F:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\bin\Debug\ModuloBiometria.dll
+F:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\bin\Debug\Dominio.pdb
+F:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\bin\Debug\ModuloBiometria.pdb
+F:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\obj\x86\Debug\Tcc.AplicacaoBiblioteca.csprojResolveAssemblyReference.cache
+F:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.CadastroAluno.resources
+F:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.FuncionarioAlterarCadastro.resources
+F:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.FuncionariosCadastrados.resources
+F:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.Relatorio.resources
+F:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.TLAluno.resources
+F:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.TLCurso.resources
+F:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.CadastroFuncionario.resources
+F:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.Login.resources
+F:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.TelaPrincipal.resources
+F:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.TLMotivoVisita.resources
+F:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.Properties.Resources.resources
+F:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\obj\x86\Debug\Tcc.AplicacaoBiblioteca.csproj.GenerateResource.Cache
+F:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\obj\x86\Debug\RdlCompile.cache
+F:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\obj\x86\Debug\RdlCompile.compiled
+H:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.exe
+H:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.pdb
+H:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\bin\Debug\TccBiblioteca.exe
+H:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\bin\Debug\TccBiblioteca.pdb
+H:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\bin\Debug\Dominio.dll
+H:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\bin\Debug\ModuloBiometria.dll
+H:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\bin\Debug\Dominio.pdb
+H:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\bin\Debug\ModuloBiometria.pdb
+E:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\bin\Debug\TccBiblioteca.exe.config
+E:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\bin\Debug\TccBiblioteca.exe
+E:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\bin\Debug\TccBiblioteca.pdb
+E:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\bin\Debug\Dominio.dll
+E:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\bin\Debug\ModuloBiometria.dll
+E:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\bin\Debug\Dominio.pdb
+E:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\bin\Debug\ModuloBiometria.pdb
+E:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.CadastroAluno.resources
+E:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.FuncionarioAlterarCadastro.resources
+E:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.FuncionariosCadastrados.resources
+E:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.Relatorio.resources
+E:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.TLAluno.resources
+E:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.TLCurso.resources
+E:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.CadastroFuncionario.resources
+E:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.Login.resources
+E:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.TelaPrincipal.resources
+E:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.TLMotivoVisita.resources
+E:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.Properties.Resources.resources
+E:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\obj\x86\Debug\RdlCompile.cache
+E:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\obj\x86\Debug\RdlCompile.compiled
+E:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.exe
+E:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.pdb
+G:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\bin\Debug\TccBiblioteca.exe.config
+G:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\bin\Debug\TccBiblioteca.exe
+G:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\bin\Debug\TccBiblioteca.pdb
+G:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\bin\Debug\Dominio.dll
+G:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\bin\Debug\ModuloBiometria.dll
+G:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\bin\Debug\Dominio.pdb
+G:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\bin\Debug\ModuloBiometria.pdb
+G:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\obj\x86\Debug\Tcc.AplicacaoBiblioteca.csprojResolveAssemblyReference.cache
+G:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.CadastroAluno.resources
+G:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.FuncionarioAlterarCadastro.resources
+G:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.FuncionariosCadastrados.resources
+G:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.Relatorio.resources
+G:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.TLAluno.resources
+G:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.TLCurso.resources
+G:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.CadastroFuncionario.resources
+G:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.Login.resources
+G:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.TelaPrincipal.resources
+G:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.TLMotivoVisita.resources
+G:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.Properties.Resources.resources
+G:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\obj\x86\Debug\Tcc.AplicacaoBiblioteca.csproj.GenerateResource.Cache
+G:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\obj\x86\Debug\RdlCompile.cache
+G:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\obj\x86\Debug\RdlCompile.compiled
+G:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.exe
+G:\3° MODULO\TCC\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.pdb
+C:\Users\ml011\Desktop\TccBiblioteca\TccBiblioteca\bin\Debug\TccBiblioteca.exe.config
+C:\Users\ml011\Desktop\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.exe
+C:\Users\ml011\Desktop\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.pdb
+C:\Users\ml011\Desktop\TccBiblioteca\TccBiblioteca\obj\x86\Debug\Tcc.AplicacaoBiblioteca.csprojResolveAssemblyReference.cache
+C:\Users\ml011\Desktop\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.CadastroAluno.resources
+C:\Users\ml011\Desktop\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.FuncionarioAlterarCadastro.resources
+C:\Users\ml011\Desktop\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.FuncionariosCadastrados.resources
+C:\Users\ml011\Desktop\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.Relatorio.resources
+C:\Users\ml011\Desktop\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.TLAluno.resources
+C:\Users\ml011\Desktop\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.TLCurso.resources
+C:\Users\ml011\Desktop\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.CadastroFuncionario.resources
+C:\Users\ml011\Desktop\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.Login.resources
+C:\Users\ml011\Desktop\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.TelaPrincipal.resources
+C:\Users\ml011\Desktop\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.TLMotivoVisita.resources
+C:\Users\ml011\Desktop\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.Properties.Resources.resources
+C:\Users\ml011\Desktop\TccBiblioteca\TccBiblioteca\obj\x86\Debug\Tcc.AplicacaoBiblioteca.csproj.GenerateResource.Cache
+C:\Users\ml011\Desktop\TccBiblioteca\TccBiblioteca\obj\x86\Debug\RdlCompile.cache
+C:\Users\ml011\Desktop\TccBiblioteca\TccBiblioteca\obj\x86\Debug\RdlCompile.compiled
+C:\Users\ml011\Desktop\TccBiblioteca\TccBiblioteca\bin\Debug\TccBiblioteca.exe
+C:\Users\ml011\Desktop\TccBiblioteca\TccBiblioteca\bin\Debug\TccBiblioteca.pdb
+C:\Users\ml011\Desktop\TccBiblioteca\TccBiblioteca\bin\Debug\Dominio.dll
+C:\Users\ml011\Desktop\TccBiblioteca\TccBiblioteca\bin\Debug\ModuloBiometria.dll
+C:\Users\ml011\Desktop\TccBiblioteca\TccBiblioteca\bin\Debug\Dominio.pdb
+C:\Users\ml011\Desktop\TccBiblioteca\TccBiblioteca\bin\Debug\ModuloBiometria.pdb
+C:\Users\Admin\Desktop\TccBiblioteca\TccBiblioteca\bin\Debug\TccBiblioteca.exe.config
+C:\Users\Admin\Desktop\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.exe
+C:\Users\Admin\Desktop\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.pdb
+C:\Users\Admin\Desktop\TccBiblioteca\TccBiblioteca\bin\Debug\TccBiblioteca.exe
+C:\Users\Admin\Desktop\TccBiblioteca\TccBiblioteca\bin\Debug\TccBiblioteca.pdb
+C:\Users\Admin\Desktop\TccBiblioteca\TccBiblioteca\bin\Debug\Dominio.dll
+C:\Users\Admin\Desktop\TccBiblioteca\TccBiblioteca\bin\Debug\ModuloBiometria.dll
+C:\Users\Admin\Desktop\TccBiblioteca\TccBiblioteca\bin\Debug\Dominio.pdb
+C:\Users\Admin\Desktop\TccBiblioteca\TccBiblioteca\bin\Debug\ModuloBiometria.pdb
+C:\Users\Admin\Desktop\TccBiblioteca\TccBiblioteca\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.CadastroAluno.resources
+C:\Users\Admin\Desktop\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.FuncionarioAlterarCadastro.resources
+C:\Users\Admin\Desktop\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.FuncionariosCadastrados.resources
+C:\Users\Admin\Desktop\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.Relatorio.resources
+C:\Users\Admin\Desktop\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.TLAluno.resources
+C:\Users\Admin\Desktop\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.TLCurso.resources
+C:\Users\Admin\Desktop\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.CadastroFuncionario.resources
+C:\Users\Admin\Desktop\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.Login.resources
+C:\Users\Admin\Desktop\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.TelaPrincipal.resources
+C:\Users\Admin\Desktop\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.TLMotivoVisita.resources
+C:\Users\Admin\Desktop\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.Properties.Resources.resources
+C:\Users\Admin\Desktop\TccBiblioteca\TccBiblioteca\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Admin\Desktop\TccBiblioteca\TccBiblioteca\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Admin\Desktop\TccBiblioteca\TccBiblioteca\obj\x86\Debug\RdlCompile.cache
+C:\Users\Admin\Desktop\TccBiblioteca\TccBiblioteca\obj\x86\Debug\RdlCompile.compiled
+E:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\TccBiblioteca\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.CadastroAluno.resources
+E:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.FuncionarioAlterarCadastro.resources
+E:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.FuncionariosCadastrados.resources
+E:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.Relatorio.resources
+E:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.TLAluno.resources
+E:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.TLCurso.resources
+E:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.CadastroFuncionario.resources
+E:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.Login.resources
+E:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.TelaPrincipal.resources
+E:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.TLMotivoVisita.resources
+E:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.Properties.Resources.resources
+E:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\TccBiblioteca\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\TccBiblioteca\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\TccBiblioteca\obj\x86\Debug\RdlCompile.cache
+E:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\TccBiblioteca\obj\x86\Debug\RdlCompile.compiled
+E:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\TccBiblioteca\bin\Debug\TccBiblioteca.exe.config
+E:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\TccBiblioteca\bin\Debug\TccBiblioteca.exe
+E:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\TccBiblioteca\bin\Debug\TccBiblioteca.pdb
+E:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\TccBiblioteca\bin\Debug\Dominio.dll
+E:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\TccBiblioteca\bin\Debug\ModuloBiometria.dll
+E:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\TccBiblioteca\bin\Debug\Dominio.pdb
+E:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\TccBiblioteca\bin\Debug\ModuloBiometria.pdb
+E:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.exe
+E:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.pdb
+E:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\TccBiblioteca\bin\Debug\TccBiblioteca.exe.manifest
+E:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\TccBiblioteca\bin\Debug\TccBiblioteca.application
+E:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.exe.manifest
+E:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.application
+H:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\TccBiblioteca\bin\Debug\TccBiblioteca.exe.config
+H:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.exe
+H:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.pdb
+H:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\TccBiblioteca\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.CadastroAluno.resources
+H:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.FuncionarioAlterarCadastro.resources
+H:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.FuncionariosCadastrados.resources
+H:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.Relatorio.resources
+H:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.TLAluno.resources
+H:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.TLCurso.resources
+H:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.CadastroFuncionario.resources
+H:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.Login.resources
+H:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.TelaPrincipal.resources
+H:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.TLMotivoVisita.resources
+H:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.Properties.Resources.resources
+H:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\TccBiblioteca\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\TccBiblioteca\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\TccBiblioteca\obj\x86\Debug\RdlCompile.cache
+H:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\TccBiblioteca\obj\x86\Debug\RdlCompile.compiled
+H:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\TccBiblioteca\bin\Debug\TccBiblioteca.exe.manifest
+H:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\TccBiblioteca\bin\Debug\TccBiblioteca.application
+H:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\TccBiblioteca\bin\Debug\TccBiblioteca.exe
+H:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\TccBiblioteca\bin\Debug\TccBiblioteca.pdb
+H:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\TccBiblioteca\bin\Debug\Dominio.dll
+H:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\TccBiblioteca\bin\Debug\ModuloBiometria.dll
+H:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\TccBiblioteca\bin\Debug\Dominio.pdb
+H:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\TccBiblioteca\bin\Debug\ModuloBiometria.pdb
+H:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.exe.manifest
+H:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.application
+C:\Users\BaseHP\Desktop\Base\TccBiblioteca\TccBiblioteca\obj\x86\Debug\Tcc.AplicacaoBiblioteca.csprojResolveAssemblyReference.cache
+C:\Users\BaseHP\Desktop\Base\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.CadastroAluno.resources
+C:\Users\BaseHP\Desktop\Base\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.FuncionarioAlterarCadastro.resources
+C:\Users\BaseHP\Desktop\Base\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.FuncionariosCadastrados.resources
+C:\Users\BaseHP\Desktop\Base\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.Relatorio.resources
+C:\Users\BaseHP\Desktop\Base\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.TLAluno.resources
+C:\Users\BaseHP\Desktop\Base\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.TLCurso.resources
+C:\Users\BaseHP\Desktop\Base\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.CadastroFuncionario.resources
+C:\Users\BaseHP\Desktop\Base\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.Login.resources
+C:\Users\BaseHP\Desktop\Base\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.TelaPrincipal.resources
+C:\Users\BaseHP\Desktop\Base\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.TLMotivoVisita.resources
+C:\Users\BaseHP\Desktop\Base\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.Properties.Resources.resources
+C:\Users\BaseHP\Desktop\Base\TccBiblioteca\TccBiblioteca\obj\x86\Debug\Tcc.AplicacaoBiblioteca.csproj.GenerateResource.Cache
+C:\Users\BaseHP\Desktop\Base\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.exe
+C:\Users\BaseHP\Desktop\Base\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.pdb
+C:\Users\BaseHP\Desktop\Base\TccBiblioteca\TccBiblioteca\bin\Debug\TccBiblioteca.exe.config
+C:\Users\BaseHP\Desktop\Base\TccBiblioteca\TccBiblioteca\bin\Debug\TccBiblioteca.exe.manifest
+C:\Users\BaseHP\Desktop\Base\TccBiblioteca\TccBiblioteca\bin\Debug\TccBiblioteca.application
+C:\Users\BaseHP\Desktop\Base\TccBiblioteca\TccBiblioteca\bin\Debug\TccBiblioteca.exe
+C:\Users\BaseHP\Desktop\Base\TccBiblioteca\TccBiblioteca\bin\Debug\TccBiblioteca.pdb
+C:\Users\BaseHP\Desktop\Base\TccBiblioteca\TccBiblioteca\bin\Debug\Dominio.dll
+C:\Users\BaseHP\Desktop\Base\TccBiblioteca\TccBiblioteca\bin\Debug\ModuloBiometria.dll
+C:\Users\BaseHP\Desktop\Base\TccBiblioteca\TccBiblioteca\bin\Debug\MySql.Data.dll
+C:\Users\BaseHP\Desktop\Base\TccBiblioteca\TccBiblioteca\bin\Debug\NITGEN.SDK.NBioBSP.dll
+C:\Users\BaseHP\Desktop\Base\TccBiblioteca\TccBiblioteca\bin\Debug\Dominio.pdb
+C:\Users\BaseHP\Desktop\Base\TccBiblioteca\TccBiblioteca\bin\Debug\ModuloBiometria.pdb
+C:\Users\BaseHP\Desktop\Base\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.exe.manifest
+C:\Users\BaseHP\Desktop\Base\TccBiblioteca\TccBiblioteca\obj\x86\Debug\TccBiblioteca.application
+C:\Users\BaseHP\Desktop\Base\TccBiblioteca\TccBiblioteca\bin\Debug\Dominio.dll.config

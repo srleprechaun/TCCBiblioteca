@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="bdbibliotecaDataSet" targetNamespace="http://tempuri.org/bdbibliotecaDataSet.xsd" xmlns:mstns="http://tempuri.org/bdbibliotecaDataSet.xsd" xmlns="http://tempuri.org/bdbibliotecaDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="stringConexaoBDBiblioteca" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="stringConexaoBDBiblioteca (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.TccBiblioteca.Properties.Settings.GlobalReference.Default.stringConexaoBDBiblioteca" Provider="MySql.Data.MySqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="VisitasPorMotivo" GeneratorDataComponentClassName="VisitasPorMotivo" Name="VisitasPorMotivo" UserDataComponentName="VisitasPorMotivo">
+            <MainSource>
+              <DbSource ConnectionRef="stringConexaoBDBiblioteca (Settings)" DbObjectName="bdbiblioteca.motivovisita" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT        M.Descricao as MOTIVO, COUNT(V.idEntrada) AS TOTAL
+FROM            motivovisita M INNER JOIN
+                         visita V ON M.Id = V.MotivoVisita_Id
+GROUP BY M.Descricao</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="MOTIVO" DataSetColumn="MOTIVO" />
+              <Mapping SourceColumn="TOTAL" DataSetColumn="TOTAL" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="bdbibliotecaDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="bdbibliotecaDataSet" msprop:Generator_UserDSName="bdbibliotecaDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="VisitasPorMotivo" msprop:Generator_TableClassName="VisitasPorMotivoDataTable" msprop:Generator_TableVarName="tableVisitasPorMotivo" msprop:Generator_TablePropName="VisitasPorMotivo" msprop:Generator_RowDeletingName="VisitasPorMotivoRowDeleting" msprop:Generator_UserTableName="VisitasPorMotivo" msprop:Generator_RowChangingName="VisitasPorMotivoRowChanging" msprop:Generator_RowEvHandlerName="VisitasPorMotivoRowChangeEventHandler" msprop:Generator_RowDeletedName="VisitasPorMotivoRowDeleted" msprop:Generator_RowEvArgName="VisitasPorMotivoRowChangeEvent" msprop:Generator_RowChangedName="VisitasPorMotivoRowChanged" msprop:Generator_RowClassName="VisitasPorMotivoRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="MOTIVO" msprop:Generator_ColumnVarNameInTable="columnMOTIVO" msprop:Generator_ColumnPropNameInRow="MOTIVO" msprop:Generator_ColumnPropNameInTable="MOTIVOColumn" msprop:Generator_UserColumnName="MOTIVO">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="TOTAL" msprop:Generator_ColumnVarNameInTable="columnTOTAL" msprop:Generator_ColumnPropNameInRow="TOTAL" msprop:Generator_ColumnPropNameInTable="TOTALColumn" msprop:Generator_UserColumnName="TOTAL" type="xs:long" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

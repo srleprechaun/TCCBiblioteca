@@ -1,0 +1,7 @@
+E:\3° MODULO\TCC\TccBiblioteca\ModuloBiometria\bin\Debug\ModuloBiometria.dll
+E:\3° MODULO\TCC\TccBiblioteca\ModuloBiometria\bin\Debug\ModuloBiometria.pdb
+E:\3° MODULO\TCC\TccBiblioteca\ModuloBiometria\obj\Debug\ResolveAssemblyReference.cache
+E:\3° MODULO\TCC\TccBiblioteca\ModuloBiometria\obj\Debug\ModuloBiometria.dll
+E:\3° MODULO\TCC\TccBiblioteca\ModuloBiometria\obj\Debug\ModuloBiometria.pdb
+E:\3° MODULO\TCC\TccBiblioteca\ModuloBiometria\bin\Debug\Dominio.dll
+E:\3° MODULO\TCC\TccBiblioteca\ModuloBiometria\bin\Debug\Dominio.pdb

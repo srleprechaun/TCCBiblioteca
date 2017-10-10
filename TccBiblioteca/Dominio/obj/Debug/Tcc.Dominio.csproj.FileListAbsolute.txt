@@ -1,0 +1,47 @@
+J:\3° MODULO\TCC\TccBiblioteca\Dominio\bin\Debug\Dominio.dll
+J:\3° MODULO\TCC\TccBiblioteca\Dominio\bin\Debug\Dominio.pdb
+J:\3° MODULO\TCC\TccBiblioteca\Dominio\obj\Debug\ResolveAssemblyReference.cache
+J:\3° MODULO\TCC\TccBiblioteca\Dominio\obj\Debug\Dominio.dll
+J:\3° MODULO\TCC\TccBiblioteca\Dominio\obj\Debug\Dominio.pdb
+H:\3° MODULO\TCC\TccBiblioteca\Dominio\bin\Debug\Dominio.dll
+H:\3° MODULO\TCC\TccBiblioteca\Dominio\bin\Debug\Dominio.pdb
+H:\3° MODULO\TCC\TccBiblioteca\Dominio\obj\Debug\Dominio.dll
+H:\3° MODULO\TCC\TccBiblioteca\Dominio\obj\Debug\Dominio.pdb
+F:\3° MODULO\TCC\TccBiblioteca\Dominio\bin\Debug\Dominio.dll
+F:\3° MODULO\TCC\TccBiblioteca\Dominio\bin\Debug\Dominio.pdb
+F:\3° MODULO\TCC\TccBiblioteca\Dominio\obj\Debug\Tcc.Dominio.csprojResolveAssemblyReference.cache
+F:\3° MODULO\TCC\TccBiblioteca\Dominio\obj\Debug\Dominio.dll
+F:\3° MODULO\TCC\TccBiblioteca\Dominio\obj\Debug\Dominio.pdb
+H:\3° MODULO\TCC\TccBiblioteca\Dominio\obj\Debug\Tcc.Dominio.csprojResolveAssemblyReference.cache
+E:\3° MODULO\TCC\TccBiblioteca\Dominio\bin\Debug\Dominio.dll
+E:\3° MODULO\TCC\TccBiblioteca\Dominio\bin\Debug\Dominio.pdb
+E:\3° MODULO\TCC\TccBiblioteca\Dominio\obj\Debug\ResolveAssemblyReference.cache
+E:\3° MODULO\TCC\TccBiblioteca\Dominio\obj\Debug\Dominio.dll
+E:\3° MODULO\TCC\TccBiblioteca\Dominio\obj\Debug\Dominio.pdb
+G:\3° MODULO\TCC\TccBiblioteca\Dominio\bin\Debug\Dominio.dll
+G:\3° MODULO\TCC\TccBiblioteca\Dominio\bin\Debug\Dominio.pdb
+G:\3° MODULO\TCC\TccBiblioteca\Dominio\obj\Debug\Dominio.dll
+G:\3° MODULO\TCC\TccBiblioteca\Dominio\obj\Debug\Dominio.pdb
+G:\3° MODULO\TCC\TccBiblioteca\Dominio\obj\Debug\Tcc.Dominio.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\TccBiblioteca\Dominio\bin\Debug\Dominio.dll
+C:\Users\Admin\Desktop\TccBiblioteca\Dominio\bin\Debug\Dominio.pdb
+C:\Users\Admin\Desktop\TccBiblioteca\Dominio\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\TccBiblioteca\Dominio\obj\Debug\Dominio.dll
+C:\Users\Admin\Desktop\TccBiblioteca\Dominio\obj\Debug\Dominio.pdb
+E:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\Dominio\bin\Debug\Dominio.dll
+E:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\Dominio\bin\Debug\Dominio.pdb
+E:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\Dominio\obj\Debug\ResolveAssemblyReference.cache
+E:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\Dominio\obj\Debug\Dominio.dll
+E:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\Dominio\obj\Debug\Dominio.pdb
+H:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\Dominio\bin\Debug\Dominio.dll
+H:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\Dominio\bin\Debug\Dominio.pdb
+H:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\Dominio\obj\Debug\ResolveAssemblyReference.cache
+H:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\Dominio\obj\Debug\Dominio.dll
+H:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\Dominio\obj\Debug\Dominio.pdb
+C:\Users\BaseHP\Desktop\Base\TccBiblioteca\Dominio\obj\Debug\Tcc.Dominio.csprojResolveAssemblyReference.cache
+C:\Users\BaseHP\Desktop\Base\TccBiblioteca\Dominio\obj\Debug\Dominio.dll
+C:\Users\BaseHP\Desktop\Base\TccBiblioteca\Dominio\obj\Debug\Dominio.pdb
+C:\Users\BaseHP\Desktop\Base\TccBiblioteca\Dominio\bin\Debug\Dominio.dll.config
+C:\Users\BaseHP\Desktop\Base\TccBiblioteca\Dominio\bin\Debug\Dominio.dll
+C:\Users\BaseHP\Desktop\Base\TccBiblioteca\Dominio\bin\Debug\Dominio.pdb
+C:\Users\BaseHP\Desktop\Base\TccBiblioteca\Dominio\bin\Debug\MySql.Data.dll

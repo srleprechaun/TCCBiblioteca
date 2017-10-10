@@ -1,0 +1,129 @@
+J:\3° MODULO\TCC\TccBiblioteca\TccTelaAluno\obj\x86\Debug\TccTelaAluno.exe
+J:\3° MODULO\TCC\TccBiblioteca\TccTelaAluno\obj\x86\Debug\TccTelaAluno.pdb
+J:\3° MODULO\TCC\TccBiblioteca\TccTelaAluno\bin\Debug\TccTelaAluno.exe
+J:\3° MODULO\TCC\TccBiblioteca\TccTelaAluno\bin\Debug\TccTelaAluno.pdb
+J:\3° MODULO\TCC\TccBiblioteca\TccTelaAluno\bin\Debug\Dominio.dll
+J:\3° MODULO\TCC\TccBiblioteca\TccTelaAluno\bin\Debug\ModuloBiometria.dll
+J:\3° MODULO\TCC\TccBiblioteca\TccTelaAluno\bin\Debug\Dominio.pdb
+J:\3° MODULO\TCC\TccBiblioteca\TccTelaAluno\bin\Debug\ModuloBiometria.pdb
+J:\3° MODULO\TCC\TccBiblioteca\TccTelaAluno\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\3° MODULO\TCC\TccBiblioteca\TccTelaAluno\obj\x86\Debug\TccTelaAluno.Properties.Resources.resources
+J:\3° MODULO\TCC\TccBiblioteca\TccTelaAluno\obj\x86\Debug\TccTelaAluno.TlAluno.resources
+J:\3° MODULO\TCC\TccBiblioteca\TccTelaAluno\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\3° MODULO\TCC\TccBiblioteca\TccTelaAluno\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\3° MODULO\TCC\TccBiblioteca\TccTelaAluno\obj\x86\Debug\TccTelaAluno.Properties.Resources.resources
+H:\3° MODULO\TCC\TccBiblioteca\TccTelaAluno\obj\x86\Debug\TccTelaAluno.TlAluno.resources
+H:\3° MODULO\TCC\TccBiblioteca\TccTelaAluno\obj\x86\Debug\Tcc.AplicacaoAluno.csproj.GenerateResource.Cache
+H:\3° MODULO\TCC\TccBiblioteca\TccTelaAluno\bin\Debug\TccTelaAluno.exe
+H:\3° MODULO\TCC\TccBiblioteca\TccTelaAluno\bin\Debug\TccTelaAluno.pdb
+H:\3° MODULO\TCC\TccBiblioteca\TccTelaAluno\bin\Debug\Dominio.dll
+H:\3° MODULO\TCC\TccBiblioteca\TccTelaAluno\bin\Debug\ModuloBiometria.dll
+H:\3° MODULO\TCC\TccBiblioteca\TccTelaAluno\bin\Debug\Dominio.pdb
+H:\3° MODULO\TCC\TccBiblioteca\TccTelaAluno\bin\Debug\ModuloBiometria.pdb
+H:\3° MODULO\TCC\TccBiblioteca\TccTelaAluno\obj\x86\Debug\Tcc.AplicacaoAluno.csprojResolveAssemblyReference.cache
+H:\3° MODULO\TCC\TccBiblioteca\TccTelaAluno\obj\x86\Debug\TccTelaAluno.exe
+H:\3° MODULO\TCC\TccBiblioteca\TccTelaAluno\obj\x86\Debug\TccTelaAluno.pdb
+F:\3° MODULO\TCC\TccBiblioteca\TccTelaAluno\bin\Debug\TccTelaAluno.exe
+F:\3° MODULO\TCC\TccBiblioteca\TccTelaAluno\bin\Debug\TccTelaAluno.pdb
+F:\3° MODULO\TCC\TccBiblioteca\TccTelaAluno\bin\Debug\Dominio.dll
+F:\3° MODULO\TCC\TccBiblioteca\TccTelaAluno\bin\Debug\ModuloBiometria.dll
+F:\3° MODULO\TCC\TccBiblioteca\TccTelaAluno\bin\Debug\Dominio.pdb
+F:\3° MODULO\TCC\TccBiblioteca\TccTelaAluno\bin\Debug\ModuloBiometria.pdb
+F:\3° MODULO\TCC\TccBiblioteca\TccTelaAluno\obj\x86\Debug\Tcc.AplicacaoAluno.csprojResolveAssemblyReference.cache
+F:\3° MODULO\TCC\TccBiblioteca\TccTelaAluno\obj\x86\Debug\TccTelaAluno.Properties.Resources.resources
+F:\3° MODULO\TCC\TccBiblioteca\TccTelaAluno\obj\x86\Debug\TccTelaAluno.TlAluno.resources
+F:\3° MODULO\TCC\TccBiblioteca\TccTelaAluno\obj\x86\Debug\Tcc.AplicacaoAluno.csproj.GenerateResource.Cache
+F:\3° MODULO\TCC\TccBiblioteca\TccTelaAluno\obj\x86\Debug\TccTelaAluno.exe
+F:\3° MODULO\TCC\TccBiblioteca\TccTelaAluno\obj\x86\Debug\TccTelaAluno.pdb
+E:\3° MODULO\TCC\TccBiblioteca\TccTelaAluno\bin\Debug\TccTelaAluno.exe
+E:\3° MODULO\TCC\TccBiblioteca\TccTelaAluno\bin\Debug\TccTelaAluno.pdb
+E:\3° MODULO\TCC\TccBiblioteca\TccTelaAluno\bin\Debug\Dominio.dll
+E:\3° MODULO\TCC\TccBiblioteca\TccTelaAluno\bin\Debug\ModuloBiometria.dll
+E:\3° MODULO\TCC\TccBiblioteca\TccTelaAluno\bin\Debug\Dominio.pdb
+E:\3° MODULO\TCC\TccBiblioteca\TccTelaAluno\bin\Debug\ModuloBiometria.pdb
+E:\3° MODULO\TCC\TccBiblioteca\TccTelaAluno\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\3° MODULO\TCC\TccBiblioteca\TccTelaAluno\obj\x86\Debug\TccTelaAluno.Properties.Resources.resources
+E:\3° MODULO\TCC\TccBiblioteca\TccTelaAluno\obj\x86\Debug\TccTelaAluno.TlAluno.resources
+E:\3° MODULO\TCC\TccBiblioteca\TccTelaAluno\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\3° MODULO\TCC\TccBiblioteca\TccTelaAluno\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\3° MODULO\TCC\TccBiblioteca\TccTelaAluno\obj\x86\Debug\TccTelaAluno.exe
+E:\3° MODULO\TCC\TccBiblioteca\TccTelaAluno\obj\x86\Debug\TccTelaAluno.pdb
+G:\3° MODULO\TCC\TccBiblioteca\TccTelaAluno\bin\Debug\TccTelaAluno.exe
+G:\3° MODULO\TCC\TccBiblioteca\TccTelaAluno\bin\Debug\TccTelaAluno.pdb
+G:\3° MODULO\TCC\TccBiblioteca\TccTelaAluno\bin\Debug\Dominio.dll
+G:\3° MODULO\TCC\TccBiblioteca\TccTelaAluno\bin\Debug\ModuloBiometria.dll
+G:\3° MODULO\TCC\TccBiblioteca\TccTelaAluno\bin\Debug\Dominio.pdb
+G:\3° MODULO\TCC\TccBiblioteca\TccTelaAluno\bin\Debug\ModuloBiometria.pdb
+G:\3° MODULO\TCC\TccBiblioteca\TccTelaAluno\obj\x86\Debug\Tcc.AplicacaoAluno.csprojResolveAssemblyReference.cache
+G:\3° MODULO\TCC\TccBiblioteca\TccTelaAluno\obj\x86\Debug\TccTelaAluno.Properties.Resources.resources
+G:\3° MODULO\TCC\TccBiblioteca\TccTelaAluno\obj\x86\Debug\TccTelaAluno.TlAluno.resources
+G:\3° MODULO\TCC\TccBiblioteca\TccTelaAluno\obj\x86\Debug\Tcc.AplicacaoAluno.csproj.GenerateResource.Cache
+G:\3° MODULO\TCC\TccBiblioteca\TccTelaAluno\obj\x86\Debug\TccTelaAluno.exe
+G:\3° MODULO\TCC\TccBiblioteca\TccTelaAluno\obj\x86\Debug\TccTelaAluno.pdb
+C:\Users\ml011\Desktop\TccBiblioteca\TccTelaAluno\bin\Debug\TccTelaAluno.exe
+C:\Users\ml011\Desktop\TccBiblioteca\TccTelaAluno\bin\Debug\TccTelaAluno.pdb
+C:\Users\ml011\Desktop\TccBiblioteca\TccTelaAluno\bin\Debug\Dominio.dll
+C:\Users\ml011\Desktop\TccBiblioteca\TccTelaAluno\bin\Debug\ModuloBiometria.dll
+C:\Users\ml011\Desktop\TccBiblioteca\TccTelaAluno\bin\Debug\Dominio.pdb
+C:\Users\ml011\Desktop\TccBiblioteca\TccTelaAluno\bin\Debug\ModuloBiometria.pdb
+C:\Users\ml011\Desktop\TccBiblioteca\TccTelaAluno\obj\x86\Debug\Tcc.AplicacaoAluno.csprojResolveAssemblyReference.cache
+C:\Users\ml011\Desktop\TccBiblioteca\TccTelaAluno\obj\x86\Debug\TccTelaAluno.Properties.Resources.resources
+C:\Users\ml011\Desktop\TccBiblioteca\TccTelaAluno\obj\x86\Debug\TccTelaAluno.TlAluno.resources
+C:\Users\ml011\Desktop\TccBiblioteca\TccTelaAluno\obj\x86\Debug\Tcc.AplicacaoAluno.csproj.GenerateResource.Cache
+C:\Users\ml011\Desktop\TccBiblioteca\TccTelaAluno\obj\x86\Debug\TccTelaAluno.exe
+C:\Users\ml011\Desktop\TccBiblioteca\TccTelaAluno\obj\x86\Debug\TccTelaAluno.pdb
+C:\Users\Admin\Desktop\TccBiblioteca\TccTelaAluno\bin\Debug\TccTelaAluno.exe
+C:\Users\Admin\Desktop\TccBiblioteca\TccTelaAluno\bin\Debug\TccTelaAluno.pdb
+C:\Users\Admin\Desktop\TccBiblioteca\TccTelaAluno\bin\Debug\Dominio.dll
+C:\Users\Admin\Desktop\TccBiblioteca\TccTelaAluno\bin\Debug\ModuloBiometria.dll
+C:\Users\Admin\Desktop\TccBiblioteca\TccTelaAluno\bin\Debug\Dominio.pdb
+C:\Users\Admin\Desktop\TccBiblioteca\TccTelaAluno\bin\Debug\ModuloBiometria.pdb
+C:\Users\Admin\Desktop\TccBiblioteca\TccTelaAluno\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\TccBiblioteca\TccTelaAluno\obj\x86\Debug\TccTelaAluno.Properties.Resources.resources
+C:\Users\Admin\Desktop\TccBiblioteca\TccTelaAluno\obj\x86\Debug\TccTelaAluno.TlAluno.resources
+C:\Users\Admin\Desktop\TccBiblioteca\TccTelaAluno\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Admin\Desktop\TccBiblioteca\TccTelaAluno\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Admin\Desktop\TccBiblioteca\TccTelaAluno\obj\x86\Debug\TccTelaAluno.exe
+C:\Users\Admin\Desktop\TccBiblioteca\TccTelaAluno\obj\x86\Debug\TccTelaAluno.pdb
+E:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\TccTelaAluno\bin\Debug\TccTelaAluno.exe
+E:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\TccTelaAluno\bin\Debug\TccTelaAluno.pdb
+E:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\TccTelaAluno\bin\Debug\Dominio.dll
+E:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\TccTelaAluno\bin\Debug\ModuloBiometria.dll
+E:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\TccTelaAluno\bin\Debug\Dominio.pdb
+E:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\TccTelaAluno\bin\Debug\ModuloBiometria.pdb
+E:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\TccTelaAluno\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\TccTelaAluno\obj\x86\Debug\TccTelaAluno.Properties.Resources.resources
+E:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\TccTelaAluno\obj\x86\Debug\TccTelaAluno.TlAluno.resources
+E:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\TccTelaAluno\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\TccTelaAluno\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\TccTelaAluno\obj\x86\Debug\TccTelaAluno.exe
+E:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\TccTelaAluno\obj\x86\Debug\TccTelaAluno.pdb
+H:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\TccTelaAluno\bin\Debug\TccTelaAluno.exe
+H:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\TccTelaAluno\bin\Debug\TccTelaAluno.pdb
+H:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\TccTelaAluno\bin\Debug\Dominio.dll
+H:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\TccTelaAluno\bin\Debug\ModuloBiometria.dll
+H:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\TccTelaAluno\bin\Debug\Dominio.pdb
+H:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\TccTelaAluno\bin\Debug\ModuloBiometria.pdb
+H:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\TccTelaAluno\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\TccTelaAluno\obj\x86\Debug\TccTelaAluno.Properties.Resources.resources
+H:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\TccTelaAluno\obj\x86\Debug\TccTelaAluno.TlAluno.resources
+H:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\TccTelaAluno\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\TccTelaAluno\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\TccTelaAluno\obj\x86\Debug\TccTelaAluno.exe
+H:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\TccTelaAluno\obj\x86\Debug\TccTelaAluno.pdb
+E:\3° MODULO\TCC\TccComExcluir\TccBiblioteca\TccTelaAluno\bin\Debug\NITGEN.SDK.NBioBSP.dll
+C:\Users\BaseHP\Desktop\Base\TccBiblioteca\TccTelaAluno\bin\Debug\TccTelaAluno.exe.config
+C:\Users\BaseHP\Desktop\Base\TccBiblioteca\TccTelaAluno\bin\Debug\TccTelaAluno.exe
+C:\Users\BaseHP\Desktop\Base\TccBiblioteca\TccTelaAluno\bin\Debug\TccTelaAluno.pdb
+C:\Users\BaseHP\Desktop\Base\TccBiblioteca\TccTelaAluno\bin\Debug\Dominio.dll
+C:\Users\BaseHP\Desktop\Base\TccBiblioteca\TccTelaAluno\bin\Debug\ModuloBiometria.dll
+C:\Users\BaseHP\Desktop\Base\TccBiblioteca\TccTelaAluno\bin\Debug\MySql.Data.dll
+C:\Users\BaseHP\Desktop\Base\TccBiblioteca\TccTelaAluno\bin\Debug\Dominio.pdb
+C:\Users\BaseHP\Desktop\Base\TccBiblioteca\TccTelaAluno\bin\Debug\ModuloBiometria.pdb
+C:\Users\BaseHP\Desktop\Base\TccBiblioteca\TccTelaAluno\obj\x86\Debug\Tcc.AplicacaoAluno.csprojResolveAssemblyReference.cache
+C:\Users\BaseHP\Desktop\Base\TccBiblioteca\TccTelaAluno\obj\x86\Debug\TccTelaAluno.Properties.Resources.resources
+C:\Users\BaseHP\Desktop\Base\TccBiblioteca\TccTelaAluno\obj\x86\Debug\TccTelaAluno.TlAluno.resources
+C:\Users\BaseHP\Desktop\Base\TccBiblioteca\TccTelaAluno\obj\x86\Debug\Tcc.AplicacaoAluno.csproj.GenerateResource.Cache
+C:\Users\BaseHP\Desktop\Base\TccBiblioteca\TccTelaAluno\obj\x86\Debug\TccTelaAluno.exe
+C:\Users\BaseHP\Desktop\Base\TccBiblioteca\TccTelaAluno\obj\x86\Debug\TccTelaAluno.pdb
+C:\Users\BaseHP\Desktop\Base\TccBiblioteca\TccTelaAluno\bin\Debug\Dominio.dll.config
